@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "67816706533",
+    "project_id": "qzr-minner-dc303",
+    "storage_bucket": "qzr-minner-dc303.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:67816706533:android:7485593c6b5b895e01df0c",
+        "android_client_info": {
+          "package_name": "com.example.qzr_minner"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIQejzd3kWxKAIfD6jjUIzcJKyKy5LZN4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
